@@ -1,6 +1,6 @@
 # Indianime
 
-A Mivie  Flutter project.
+A Movie  Flutter project.
 
 ## Getting Started
 
